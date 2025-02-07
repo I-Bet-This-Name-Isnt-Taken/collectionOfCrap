@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Daily_Transmission_Log>
+    
+    <Transmission_Information>
+        
+        <Day_Number>TWENTY-SECOND DAY.</Day_Number>
+        <Transmission_Date>August 31, 1858.</Transmission_Date>
+    </Transmission_Information>
+    
+    <Communication_Log>Message Log
+
+        <Communication_Segment>Segment 1
+            
+            <Communication_Direction>Valentia to Newfoundland.</Communication_Direction>
+            <Time_Sent>Sent 1.30 P.M.</Time_Sent>
+                
+                <Message>—“Can you read? We have two Government messages. Will you take? Reply direct.”</Message>
+        </Communication_Segment>
+        
+        <Communication_Segment>Segment 2
+            
+            <Communication_Direction>Newfoundland to Valentia.</Communication_Direction>
+            <Time_Sent>Sent 1.37 P.M.</Time_Sent>
+            
+                <Message>—“Try, but send.”</Message>
+        </Communication_Segment>
+        
+        <Communication_Segment>Segment 3
+            
+            <Communication_Direction>Valentia to Newfoundland.</Communication_Direction>
+            <Time_Sent>Sent 3.41 P.M.</Time_Sent>
+            
+                <Message>—“The Military Secretary to Commander-in-Chief, Horse Guards, London. To General Trollope, Halifax, Nova Scotia:— The Sixty-second Regiment is not to return to England.”</Message>
+        
+                <Note>[This message and that which will be found further on in regard to the Thirty-ninth Regiment, saved to the British Government the sum of fifty thousand pounds (250,000 dollars), by avoiding the shipment and transportation of troops.]</Note>
+        </Communication_Segment>
+    
+        <Communication_Segment>Segment 4
+            
+            <Communication_Direction>Newfoundland to Valentia.</Communication_Direction>
+            <Time_Sent>Sent N/A</Time_Sent>
+                
+                <Message>—“This received:—The Military Secretary to Commander-in-Chief, Horse Guards, London.”</Message>
+                <Message>—“‘Trollope,’ understand. Go on after Scotia.”</Message>
+                <Message>—“Is it finished after ‘England?’ ”</Message>
+        </Communication_Segment>
+    
+        <Communication_Segment>Segment 5
+            
+            <Communication_Direction>Valentia to Newfoundland.</Communication_Direction>
+            <Time_Sent>Sent 4 P.M.</Time_Sent>
+            
+                <Message>—“Yes. Now take another. Are you ready?”</Message>
+        </Communication_Segment>
+    
+        <Communication_Segment>Segment 6
+            
+            <Communication_Direction>Newfoundland to Valentia.</Communication_Direction>
+            <Time_Sent>Sent 4.5 P.M.</Time_Sent>
+            
+                <Message>—“Yes, send.”</Message>
+        </Communication_Segment>
+    
+        <Communication_Segment>Segment 7
+            
+            <Communication_Direction>Valentia to Newfoundland.</Communication_Direction>
+            <Time_Sent>Sent 9.3 P.M.</Time_Sent>
+    
+                <Message>—“The Military Secretary to Commander-in-Chief, Horse Guards, to General Officer commanding, Montreal, Canada:—The Thirty-ninth Regiment is not to return to England.”</Message>
+        </Communication_Segment>
+    
+        <Communication_Segment>Segment 8
+            
+            <Communication_Direction>Newfoundland to Valentia.</Communication_Direction>
+            <Time_Sent>Sent N/A</Time_Sent>
+    
+                <Message>—“I want you to repeat ‘Canada.’”</Message>
+        </Communication_Segment>
+    
+        <Communication_Segment>Segment 9
+        
+            <Communication_Direction>Valentia to Newfoundland.</Communication_Direction>
+            <Time_Sent>Sent 10.5 P.M.</Time_Sent>
+    
+                <Message>—“Can’t read. Try‘Daniel’s.”</Message>
+        </Communication_Segment>
+    
+        <Communication_Segment>Segment 10
+        
+        <Communication_Direction>Newfoundland to Valentia.</Communication_Direction>
+        <Time_Sent>Sent 12 P.M.</Time_Sent>
+    
+            <Message>—“Repeat from ‘Canada’ to ‘return.’”</Message>
+        </Communication_Segment>
+    
+    </Communication_Log>
+
+</Daily_Transmission_Log>

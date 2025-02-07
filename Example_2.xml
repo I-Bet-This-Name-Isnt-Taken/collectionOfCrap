@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<commLog date="1858-08-31" day="22"> <!-- Val means Valentia, Nfld means Newfoundland -->
+    <commSeg num="1" from="Val" to="Nfld" time="1.30 P.M.">
+        <Message>—“Can you read? We have two Government messages. Will you take? Reply
+            direct.”</Message>
+    </commSeg>
+    <commSeg num="2" from="Nfld" to="Val" time="1.37 P.M.">
+        <Message>—“Try, but send.”</Message>
+    </commSeg>
+    <commSeg num="3" from="Val" to="Nfld" time="3.41 P.M.">
+        <Message>—“The Military Secretary to Commander-in-Chief, Horse Guards, London. To General
+            Trollope, Halifax, Nova Scotia:— The Sixty-second Regiment is not to return to
+            England.”</Message>
+        <Note>[This message and that which will be found further on in regard to the Thirty-ninth
+            Regiment, saved to the British Government the sum of fifty thousand pounds (250,000
+            dollars), by avoiding the shipment and transportation of troops.]</Note>
+    </commSeg>
+    <commSeg num="4" from="Nfld" to="Val" time="N/A">
+        <Message>—“This received:—The Military Secretary to Commander-in-Chief, Horse Guards,
+            London.”</Message>
+        <Message>—“‘Trollope,’ understand. Go on after Scotia.”</Message>
+        <Message>—“Is it finished after ‘England?’ ”</Message>
+    </commSeg>
+    <commSeg num="5" from="Val" to="Nfld" time="4.00 P.M.">
+        <Message>—“Yes. Now take another. Are you ready?”</Message>
+    </commSeg>
+    <commSeg num="6" from="Nfld" to="Val" time="4.50 P.M.">
+        <Message>—“Yes, send.”</Message>
+    </commSeg>
+    <commSeg num="7" from="Val" to="Nfld" time="9.30 P.M.">
+        <Message>—“The Military Secretary to Commander-in-Chief, Horse Guards, to General Officer
+            commanding, Montreal, Canada:—The Thirty-ninth Regiment is not to return to
+            England.”</Message>
+    </commSeg>
+    <commSeg num="8" from="Nfld" to="Val" time="N/A">
+        <Message>—“I want you to repeat ‘Canada.’”</Message>
+    </commSeg>
+    <commSeg num="9" from="Val" to="Nfld" time="10.50 P.M.">
+        <Message>—“Can’t read. Try‘Daniel’s.”</Message>
+    </commSeg>
+    <commSeg num="10" from="Nfld" to="Val" time="12.00 P.M.">
+        <Message>—“Repeat from ‘Canada’ to ‘return.’”</Message>
+    </commSeg>
+</commLog>
