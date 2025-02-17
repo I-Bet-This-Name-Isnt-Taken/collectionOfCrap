@@ -1,13 +1,9 @@
 body {
-                background: #f56440;
-                font-family: "Lucida Console", "Courier New", monospace;
-            }
-body.gallery {
                 background: #12ce81;
                 font-family: "Lucida Console", "Courier New", monospace;
             }
             
-figure {width:70%;
+figure {width:60%;
              background: #12ce81;;
             }
             
