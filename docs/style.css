@@ -6,13 +6,34 @@ body.gallery {
                 background: #12ce81;
                 font-family: "Lucida Console", "Courier New", monospace;
             }
+div.flex {
+    width:80%;
+    display:flex;
+    background:#12ce81;
+}
+       
+figure {
+    flex:1;
+    background:black;
+}
             
-figure {width:70%;
-             background: #12ce81;;
-            }
-            
-img {width:80%;}
-            
+img {
+    width:80%;
+
+}
+
+nav.right{
+    text-align:right;
+}
+
+a.link{
+    color:black;
+    text-decoration:none;
+}
+figcaption{
+    text-align:center;
+}   
+
 img#PSB {width:10%;}
             
 section{
