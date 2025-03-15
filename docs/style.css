@@ -1,43 +1,55 @@
 body {
-                background: #f56440;
-                font-family: "Lucida Console", "Courier New", monospace;
-            }
-body.gallery {
-                background: #12ce81;
-                font-family: "Lucida Console", "Courier New", monospace;
-            }
+    background: #4d4d4d;
+    color:white;
+    font-family: "Georgia", "Courier New", monospace;}
+    
+body.home {
+    background:url(images/ColemanCustom-3-1.JPG) center;
+    color: white;
+    font-family: "Georgia", "Courier New", monospace;}    
+    
 div.flex {
-    width:80%;
+    width:95%;
+    height:95%;
     display:flex;
-    background:#12ce81;
-}
+    margin-left: auto;
+    margin-right: auto;
+    background:#404040;}
        
-figure {
-    flex:1;
-    background:black;
-}
+figure.gallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    background:black;}
             
 img {
-    width:80%;
-
-}
-
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width:65%;}
+    
+img.adj {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width:15%;}
+    
 nav.right{
-    text-align:right;
-}
-
+    text-align:right;}
+    
+nav.center{
+    text-align:center;}
+    
 a.link{
-    color:black;
-    text-decoration:none;
-}
+    color:white;
+    text-decoration:none;}
+    
 figcaption{
     text-align:center;
-}   
+    color:white;}
 
-img#PSB {width:10%;}
-            
-section{
-            background: red;
-            width:90%;
-            margin:auto;
-            }
+h1.center{
+    text-align:center;}
+
+
